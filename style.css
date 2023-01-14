@@ -13,9 +13,7 @@
 
 .introSection{
     display: flex;
-    padding: 3em;
-    
-    
+    padding: 48px;    
 }
 
 
@@ -55,4 +53,47 @@
     font-weight: 300;
     border-radius: 5px;
     font-size: 18px;
+    transition: 200ms;
+    cursor: pointer;
+}
+
+.items{
+    color: rgba(255, 255, 255, 0.644);
+    transition: 200ms;
+    cursor: pointer;
+}
+
+.items:hover{
+    scale: 1.1;
+    color: #fff;
+ 
+}
+
+.button:hover{
+    scale: 1.1;
+}
+
+.introInfo{
+    display: flex;
+}
+
+
+.introLeft{
+    width: 50%;
+    font-family: 'Poppins',sans-serif;
+    color: #fff;
+    padding: 78px;
+
+}
+
+.introRight{
+    width: 50%;
+}
+
+
+.introLeftHeading{
+
+    font-size: 40px;
+    font-weight: 600;
+    padding-top: 2em;
 }
