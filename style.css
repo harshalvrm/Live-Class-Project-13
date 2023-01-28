@@ -97,3 +97,26 @@
     font-weight: 600;
     padding-top: 2em;
 }
+
+.detailedInfo{
+    display: flex;
+}
+
+.detailedInfoLeft{
+    width: 50%;
+}
+
+.detailedInfoRight{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+.pointerOneTop, .pointerTwoTop, .pointerThreeTop{
+    display: flex;
+    align-items: center;
+    justify-content:flex-start;
+}
