@@ -147,6 +147,15 @@
 .features{
     display: flex;
     flex-direction: column;
+    align-items: center;
+}
+
+.featureTop{
+    width: 400px;
+    font-size: 30px;
+    font-family: 'Poppins',sans-serif;
+    font-weight: 700;
+    margin-bottom: 80px;
 }
 
 .cardOneTop img{
@@ -163,4 +172,15 @@
 
 .cardFourTop img{
     width: 100px;
+}
+
+.cards{
+    margin-bottom: 100px;
+    display: flex;
+    width: 50%;
+}
+
+.cardOne{
+    border: solid 2px #000;
+    box-shadow: #000;
 }
