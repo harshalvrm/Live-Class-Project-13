@@ -111,12 +111,35 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-top: 150px;
 }
 
+.leftHead{
+    width: 400px;
+    font-family: 'Poppins',sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    padding-top: 2em;
+}
 
+.RightHeadDetail{
+    margin: 40px 0 20px 200px;
+}
 
 .pointerOneTop, .pointerTwoTop, .pointerThreeTop{
     display: flex;
     align-items: center;
     justify-content:flex-start;
+}
+
+.pointerText{
+    font-size: 18px;
+    font-family: 'Poppins',sans-serif;
+    font-weight: 700;
+}
+
+.pointerTextDesc{
+    font-family: 'Poppins',sans-serif;
+    width: 500px;
+    margin-left: 50px;
 }
