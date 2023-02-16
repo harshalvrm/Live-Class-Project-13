@@ -143,3 +143,24 @@
     width: 500px;
     margin-left: 50px;
 }
+
+.features{
+    display: flex;
+    flex-direction: column;
+}
+
+.cardOneTop img{
+    width: 100px;
+}
+
+.cardTwoTop img{
+    width: 100px;
+}
+
+.cardThreeTop img{
+    width: 100px;
+}
+
+.cardFourTop img{
+    width: 100px;
+}
