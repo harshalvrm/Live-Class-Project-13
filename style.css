@@ -183,9 +183,23 @@
 }
 
 .cardOne{
-    border: solid 2px #000;
-    box-shadow: #000;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    box-shadow: 5px 5px 40px -25px #524e4e;
     padding: 20px;
     width: 25%;
     margin: 0 30px;
+}
+
+.cardOneBottom{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cardDesc{
+    text-align: center;
 }
