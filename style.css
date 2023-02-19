@@ -25,7 +25,6 @@
 }
 
  .menuItem{
-    border: 2px solid #fff;
     padding: 15px;
     margin-left: 35%;
 
@@ -157,9 +156,10 @@
     font-family: 'Poppins',sans-serif;
     font-weight: 700;
     margin-bottom: 80px;
+    text-align: center;
 }
 
-.cardOneTop{
+.cardOneTop, .cardTwoTop, .cardThreeTop, .cardFourTop{
     border-radius: 100%;
     padding: 30px;
     background-color: #FAEAEB;
@@ -172,15 +172,15 @@
 }
 
 .cardTwoTop img{
-    width: 100px;
+    width: 40px;
 }
 
 .cardThreeTop img{
-    width: 100px;
+    width: 40px;
 }
 
 .cardFourTop img{
-    width: 100px;
+    width: 40px;
 }
 
 .cards{
@@ -190,7 +190,7 @@
     margin: 0 200px;
 }
 
-.cardOne{
+.cardOne, .cardTwo, .cardThree, .cardFour{
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -209,12 +209,23 @@
     background-color: #6429B7;
     color: #fff;
     border-radius: 25px;
+    padding: 10px 0 ;
+}
+
+.cardTwoBottom, .cardThreeBottom, .cardFourBottom{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #000;
+    border-radius: 25px;
+    padding: 10px 0 ;
 }
 
 .cardHeading{
     font-size: 15px;
     font-family: 'Poppins',sans-serif;
-    font-weight: 500;
+    font-weight: 800;
 }
 
 .cardDesc{   
