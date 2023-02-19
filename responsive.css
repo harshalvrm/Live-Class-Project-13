@@ -66,11 +66,17 @@
     }
 
     .leftHead{
-        width: 400px;
-        font-family: 'Poppins',sans-serif;
-        font-size: 30px;
-        font-weight: 600;
-        padding-top: 0em;
+        padding: 0;
     }
+    
+    .detailedInfo{
+        height: auto;
+        width: auto;
+    }
+
+    .detailedInfoRight{
+        margin-top: 20px;
+    }
+
 
 }
