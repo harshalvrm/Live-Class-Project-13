@@ -159,8 +159,16 @@
     margin-bottom: 80px;
 }
 
+.cardOneTop{
+    border-radius: 100%;
+    padding: 30px;
+    background-color: #FAEAEB;
+    margin: 40px 0;
+
+}
+
 .cardOneTop img{
-    width: 100px;
+    width: 40px;
 }
 
 .cardTwoTop img{
@@ -189,32 +197,31 @@
     align-items: center;
     border-radius: 20px;
     box-shadow: 5px 5px 40px -25px #524e4e;
-    /* padding: 20px; */
-    width: 25%;
+    width: 35%;
     margin: 0 30px;
 }
 
 .cardOneBottom{
-    width: 120px;
+    width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     background-color: #6429B7;
     color: #fff;
-    border-radius: 10px;
+    border-radius: 25px;
 }
 
 .cardHeading{
     font-size: 15px;
     font-family: 'Poppins',sans-serif;
-
+    font-weight: 500;
 }
 
 .cardDesc{   
+    padding: 5px;
     font-size: 10px;
     text-align: center;
     font-family: 'Poppins',sans-serif;
-    font-weight: 300;
-    
-
+    font-weight: 200;
+    width: 80%;
 }
