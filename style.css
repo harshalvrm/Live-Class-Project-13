@@ -189,17 +189,32 @@
     align-items: center;
     border-radius: 20px;
     box-shadow: 5px 5px 40px -25px #524e4e;
-    padding: 20px;
+    /* padding: 20px; */
     width: 25%;
     margin: 0 30px;
 }
 
 .cardOneBottom{
+    width: 120px;
     display: flex;
     flex-direction: column;
     align-items: center;
+    background-color: #6429B7;
+    color: #fff;
+    border-radius: 10px;
 }
 
-.cardDesc{
+.cardHeading{
+    font-size: 15px;
+    font-family: 'Poppins',sans-serif;
+
+}
+
+.cardDesc{   
+    font-size: 10px;
     text-align: center;
+    font-family: 'Poppins',sans-serif;
+    font-weight: 300;
+    
+
 }
