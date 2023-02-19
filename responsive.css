@@ -1,0 +1,42 @@
+/** Responsive Styles **/
+
+/** Breakpoint 1024 **/
+@media screen and (max-width: 1024px) {
+    .nav{
+        width: 100vw;
+    }
+    .menuItem{
+        padding: auto;
+        margin: auto;
+    }
+
+}
+
+/** Breakpoint 768 **/
+@media screen and (max-width: 768px) {
+
+    .nav{
+        width: 100vw;
+        align-items: center;
+        justify-content: space-around;
+    }
+
+    .logo img{
+        width: 100px;
+    }
+
+    .menuItem{
+        padding: auto;
+        margin: auto;
+    }
+
+    .menuList{
+        margin-right: 100px;
+    }
+
+    .items{
+        padding: 0 2px;
+        margin: 0 5px;
+    }
+
+}
