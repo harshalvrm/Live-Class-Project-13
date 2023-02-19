@@ -71,6 +71,7 @@
     scale: 1.1;
 }
 
+/* Mid section */
 .introInfo{
     display: flex;
 }
@@ -90,14 +91,19 @@
 
 
 .introLeftHeading{
-
     font-size: 40px;
     font-weight: 600;
     padding-top: 2em;
 }
 
+.introLeftDescription{
+    font-size: 15px;
+    font-family: 'Poppins',sans-serif;
+    font-weight: 300;
+}
+
 .detailedInfo{
-    display: flex;
+    display: flex;   
 }
 
 .detailedInfoLeft{
@@ -141,6 +147,8 @@
     width: 500px;
     margin-left: 50px;
 }
+
+/* Features and Cards */
 
 .features{
     display: flex;

@@ -39,4 +39,38 @@
         margin: 0 5px;
     }
 
+    .introLeft{
+        width: 60%;
+        padding: 20px 70px 70px 50px;
+    }
+
+    .introLeftHeading{
+        font-size: 25px;
+        padding: 0;
+    }
+
+    .introLeftDescription{
+        font-family: 'Poppins',sans-serif;
+        font-size: 15px;
+        font-weight: 300;
+    }
+
+    .detailedInfo{
+        flex-direction: column;
+        align-items: center;
+        justify-content: flex-start;
+    }
+
+    .detailedInfoLeft{
+        width: 500px;
+    }
+
+    .leftHead{
+        width: 400px;
+        font-family: 'Poppins',sans-serif;
+        font-size: 30px;
+        font-weight: 600;
+        padding-top: 0em;
+    }
+
 }
