@@ -97,7 +97,19 @@
         width: 100%;
         margin-bottom: 100px;
         margin: 0 0;
+    }  
+}
+
+/** Breakpoint 768 **/
+@media screen and (max-width: 576px) {
+    .menuItem{
+    visibility: hidden;
     }
-    
+
+    .button{
+        width: 80px;           
+        font-size: 12px;
+        white-space: nowrap;
+    }
 
 }
