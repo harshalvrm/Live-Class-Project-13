@@ -78,5 +78,26 @@
         margin-top: 20px;
     }
 
+    .pointerTextDesc{
+        
+        width: 500px;
+        margin-left: 0px;
+    }
+
+    .RightHeadDetail{
+        margin: 40px 0 40px 100px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .cards{
+        flex-direction: row;
+        justify-content: center;
+        flex-wrap: wrap;
+        width: 100%;
+        margin-bottom: 100px;
+        margin: 0 0;
+    }
+    
 
 }
