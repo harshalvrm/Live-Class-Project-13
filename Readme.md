@@ -26,7 +26,8 @@ Here's a Screen-Shot of my 13th project along with the responsive snippets.
 <div style="text-align: center;">
 
 <br>
-![Home01_576px](https://user-images.githubusercontent.com/30925783/220836432-925e5a36-7704-4500-a18b-050543e1659a.png)
+
+![Home01_576px](https://user-images.githubusercontent.com/30925783/220844484-49c65028-e76f-4447-aadd-d37952eaaf34.png)
 
 <br>
 ![Home02_576px](https://user-images.githubusercontent.com/30925783/220836451-42cf79d3-a0de-4611-af62-425f3e8468f1.png)
