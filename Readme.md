@@ -18,25 +18,25 @@ The image property was an important element that I learned in this project. Corr
 ## About The Project
 <br>
 
-![project 13](./ScreenShot/gif.gif)
+
+![project 13](https://user-images.githubusercontent.com/30925783/220835736-eb7d19d5-570b-4db2-b14e-4067414da5dd.gif)
 
 
 Here's a Screen-Shot of my 13th project along with the responsive snippets.
 <div style="text-align: center;">
 
 <br>
+![Responsive](https://user-images.githubusercontent.com/30925783/220835793-e9f802c8-0689-49ca-be51-baf7d244e587.png)
 
-![Responsive](./Screenshot/Home01_576px.png)
 <br>
 
+![Responsive](https://user-images.githubusercontent.com/30925783/220835849-b38e37ff-778d-4a0c-b8f2-1188d4e5c618.png)
 
-![Responsive](./Screenshot/Home02_576px.png)
 <br>
+![Responsive](https://user-images.githubusercontent.com/30925783/220835972-75a0ae06-a966-4662-9950-6a0e08109c4b.png)
 
-![Responsive](./Screenshot/Home01_768px.png)
 <br>
-
-![Responsive](./Screenshot/Home02_768px.png)
+![Responsive](https://user-images.githubusercontent.com/30925783/220836015-47155f1f-2dca-416d-bf3d-c959b5fbb01f.png)
 <br>
 
 
