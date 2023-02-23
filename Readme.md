@@ -27,14 +27,25 @@ Here's a Screen-Shot of my 13th project along with the responsive snippets.
 
 <br>
 
+![Home01_1024px](https://user-images.githubusercontent.com/30925783/220846366-95be5d0b-9725-4560-b630-f112ed8df098.png)
+
+
+<br>
+
 ![Home01_576px](https://user-images.githubusercontent.com/30925783/220844484-49c65028-e76f-4447-aadd-d37952eaaf34.png)
 
 <br>
-![Home02_576px](https://user-images.githubusercontent.com/30925783/220836451-42cf79d3-a0de-4611-af62-425f3e8468f1.png)
+
+![Home02_576px](https://user-images.githubusercontent.com/30925783/220844956-11492d3f-73c5-44ff-a828-f9eba2183548.png)
+
 <br>
-![Home01_768px](https://user-images.githubusercontent.com/30925783/220836471-4b38ef60-9834-4a2b-89f1-d7ae8a8ebeb8.png)
+
+![Home01_768px](https://user-images.githubusercontent.com/30925783/220845273-3c75b840-6974-4e0d-96ad-5b5e0c5c3e1d.png)
+
 <br>
-![Home02_768px](https://user-images.githubusercontent.com/30925783/220836499-c71e2818-eb97-4021-ae66-7eeeab5f2cfe.png)
+
+![Home02_768px](https://user-images.githubusercontent.com/30925783/220845465-9dc82eee-a303-4437-8be4-b6beeda63229.png)
+
 <br>
 </div>
 <!-- PROJECT LOGO -->
