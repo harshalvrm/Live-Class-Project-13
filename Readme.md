@@ -26,20 +26,15 @@ Here's a Screen-Shot of my 13th project along with the responsive snippets.
 <div style="text-align: center;">
 
 <br>
-![Responsive](https://user-images.githubusercontent.com/30925783/220835793-e9f802c8-0689-49ca-be51-baf7d244e587.png)
+![Home01_576px](https://user-images.githubusercontent.com/30925783/220836432-925e5a36-7704-4500-a18b-050543e1659a.png)
 
 <br>
-
-![Responsive](https://user-images.githubusercontent.com/30925783/220835849-b38e37ff-778d-4a0c-b8f2-1188d4e5c618.png)
-
+![Home02_576px](https://user-images.githubusercontent.com/30925783/220836451-42cf79d3-a0de-4611-af62-425f3e8468f1.png)
 <br>
-![Responsive](https://user-images.githubusercontent.com/30925783/220835972-75a0ae06-a966-4662-9950-6a0e08109c4b.png)
-
+![Home01_768px](https://user-images.githubusercontent.com/30925783/220836471-4b38ef60-9834-4a2b-89f1-d7ae8a8ebeb8.png)
 <br>
-![Responsive](https://user-images.githubusercontent.com/30925783/220836015-47155f1f-2dca-416d-bf3d-c959b5fbb01f.png)
+![Home02_768px](https://user-images.githubusercontent.com/30925783/220836499-c71e2818-eb97-4021-ae66-7eeeab5f2cfe.png)
 <br>
-
-
 </div>
 <!-- PROJECT LOGO -->
 <br/>
